@@ -45,7 +45,9 @@ My goal is to build a strong foundation in programming, improve my technical ski
 
 ---
 
+## 📊 My GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=shaghayegh11297&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 My GitHub Streak
